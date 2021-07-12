@@ -1,6 +1,16 @@
+# _rawdata
+_rawdata/
+_draft/
+
 # History files
 .Rhistory
 .Rapp.history
+
+# Git files
+# .gitignore
+
+# Readme Rmd
+README.Rmd
 
 # Session Data files
 .RData
@@ -19,10 +29,6 @@
 
 # RStudio files
 .Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
